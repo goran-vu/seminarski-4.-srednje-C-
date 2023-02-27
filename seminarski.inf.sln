@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seminarski.inf", "seminarski.inf.csproj", "{7E29E888-6852-4EAA-A63B-135154275348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E29E888-6852-4EAA-A63B-135154275348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E29E888-6852-4EAA-A63B-135154275348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E29E888-6852-4EAA-A63B-135154275348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E29E888-6852-4EAA-A63B-135154275348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F384DC8-89DE-4CB7-91E3-85C1DA4F36B3}
+	EndGlobalSection
+EndGlobal
